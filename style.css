@@ -57,6 +57,7 @@ body{
     border: none;
     padding: 10px;
     height: 40px;
+    color: white;
    
 }
 
@@ -80,6 +81,7 @@ input[type='submit']{
     width: 180px;
     background-color: red;
     font-weight: bolder;
+    color: white;
 
 }
 .second-section{
