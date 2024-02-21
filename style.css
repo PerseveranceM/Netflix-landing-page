@@ -129,3 +129,17 @@ input[type='submit']{
     font-size: 30px;
 
 }
+.fifth-section{
+    display: flex;
+    padding: 50px;
+    border-bottom: 6px solid rgb(43, 42, 42);
+}
+.fifth-section h1{
+    font-size: 60px;
+    padding: 20px;
+
+}
+.fifth-section p{
+    font-size: 25px;
+    margin-left: 30px;
+}
